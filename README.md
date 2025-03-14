@@ -14,12 +14,11 @@ FeedBacker is a web application built using **Node.js, Express, React.js, Tailwi
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Authentication**: JWT (JSON Web Tokens)
 
 ## 📦 Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/YOUR_USERNAME/FeedBacker.git
+   https://github.com/yashaghane21/Feedbacker_Frontend.git
    cd FeedBacker
    ```
 2. **Install dependencies**
